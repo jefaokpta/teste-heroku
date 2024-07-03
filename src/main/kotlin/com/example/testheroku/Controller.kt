@@ -13,5 +13,5 @@ import org.springframework.web.bind.annotation.RestController
 class Controller {
 
     @GetMapping
-    fun hello() = "Hello Heroku"
+    fun hello() = "Hello Heroku em dev!"
 }
